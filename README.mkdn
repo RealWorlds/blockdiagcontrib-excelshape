@@ -1,6 +1,8 @@
 blockdiagcontrib-excelshape
 ===========================
 
+![screenshot](https://raw.github.com/RealWorlds/blockdiagcontrib-excelshape/master/misc/screenshot.png)
+
 A plugin for `blockdiag` that provides imagedrawer for excel shape.
 Most Japanese peaple love writing documentation with MS-Excel.
 
