@@ -1,0 +1,26 @@
+blockdiagcontrib-excelshape
+===========================
+
+A plugin for `blockdiag` that provides imagedrawer for excel shape.
+Most Japanese peaple love writing documentation with MS-Excel.
+
+
+Usage
+---------------------------
+
+Give '-T shape.xls' option to blockdiag command line::
+
+    $ blockdiag -T shape.xls input.diag
+
+
+Requirements
+---------------------------
+
+ * blockdiag 1.2.1 or later
+ * PyWin32
+
+
+License
+--------------
+
+Apache License 2.0
